@@ -17,10 +17,11 @@ DJ Table along the style of https://www.jj-boooth.com/projects/unit-023
 
 ## Important facts
 
-| Name                       | Value    |
-| -------------------------- | -------- |
-| Size of a record sleeve    | 31.43 cm |
-| Good height for a DJ table | ??       |
+| Name                       | Value     | Comments        |
+| -------------------------- | --------  | --------        |
+| Size of a record sleeve    |  31.43 cm |                 |
+| Size of a singles sleeve   |  18.50 cm |                 |
+| Good height for a DJ table | 104.00 cm | To be validated |
 
 
 
