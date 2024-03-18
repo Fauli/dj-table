@@ -21,8 +21,8 @@ DJ Table along the style of https://www.jj-boooth.com/projects/unit-023
 
 | Name                       | Value     | Comments                            |
 | -------------------------- | --------  | --------                            |
-| Size of a record sleeve    |  31.43 cm |                                     |
-| Size of a singles sleeve   |  18.50 cm |                                     |
+| Size of a record sleeve    |  31.43 cm | Normal vinyl cover size             |
+| Size of a singles sleeve   |  18.50 cm | Singles vinyl cover                 |
 | Good height for a DJ table | 100.00 cm | Plus the height of the DJ equipment |
 
 
@@ -31,8 +31,6 @@ DJ Table along the style of https://www.jj-boooth.com/projects/unit-023
 | CDJ Nexus 3000  | 118         | 453        | 329        |
 | CDJ Nexus 2000  | 114         | 415        | 320        |
 | Xone:92         | 88          | 358        | 320        |
- |
-
 
 
 ## List of Woodcuts
@@ -68,16 +66,17 @@ The back of the DJ table with space for records, headphones and other things.
 
 The front of the DJ table with small spaces for decoration, i.e. singles, plants, lava lamp, etc.
 
+NOTE: As of now, the model does not have the cuts for the holes in the very top to put the CDJs and mixer in. They will come soon.
+
 
 ## Cut list
 
 After creating the model, I prepared optimized cut list based on the table of the list of wood cuts above. I used a software I found online to draw the images. I came up with 2 different versions:
 
 <p float="left">
-  <img src="images/try-1-piece-1.png" width="50%" />
-  <img src="images/try-1-piece-2.png" width="50%" /> 
+  <img src="images/try-1-piece-1.png" width="200" />
+  <img src="images/try-1-piece-2.png" width="200" /> 
 </p>
-
 
 
 ## Assembly
