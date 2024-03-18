@@ -57,8 +57,27 @@ For easier visuailzation (And to ensure the above cuts really work :3) I created
 
 I used 2mm thick cardboard and used a scale of 1 to 10. With that the thickness of the cardboard almost matched.
 
+
+![model-back-1](/images/model-back-2.jpg)
+
+The back of the DJ table with space for records, headphones and other things.
+
+![model-front-2](/images/model-front-2.jpg)
+
+The front of the DJ table with small spaces for decoration, i.e. singles, plants, lava lamp, etc.
+
+
 ## Cut lists
 
-After creating the model, I prepared optimized cut lists
+After creating the model, I prepared optimized cut lists based on the table of the list of wood cuts above. I used a software I found online to draw the images. I came up with 2 different versions:
+
+<p float="left">
+  <img src="images/try-1-piece-1.png" width="50%" />
+  <img src="images/try-1-piece-2.png" width="50%" /> 
+</p>
 
 
+
+## Assembly
+
+Not yet done
