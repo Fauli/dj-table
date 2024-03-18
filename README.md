@@ -4,7 +4,9 @@
   - [Introduction](#introduction)
   - [Important facts](#important-facts)
   - [List of Woodcuts](#list-of-woodcuts)
-  - [Planning](#planning)
+  - [Model](#model)
+  - [Cut lists](#cut-list)
+  - [Assembly](#assembly)
 
 
 ## Introduction
@@ -67,9 +69,9 @@ The back of the DJ table with space for records, headphones and other things.
 The front of the DJ table with small spaces for decoration, i.e. singles, plants, lava lamp, etc.
 
 
-## Cut lists
+## Cut list
 
-After creating the model, I prepared optimized cut lists based on the table of the list of wood cuts above. I used a software I found online to draw the images. I came up with 2 different versions:
+After creating the model, I prepared optimized cut list based on the table of the list of wood cuts above. I used a software I found online to draw the images. I came up with 2 different versions:
 
 <p float="left">
   <img src="images/try-1-piece-1.png" width="50%" />
