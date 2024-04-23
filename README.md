@@ -86,19 +86,23 @@ Because the spruce wood I got is very light in color, I got teak wood color glaz
 
 ![glazing-2](/images/glazing-2.jpg)
 
+So before any of the assembly steps are done. All pieces are proprely coated.
+Unforunately the sides of the pieces did not come out evenly colored. 
 
-
-## Assembly
+To fix this, I'll sand the sides that are visible after the assembly with a sander and re-paint them.
 
 ## Metal Parts
 Here is a table listing the metal parts needed for the assembly:
 
-| Part     | Type     | Details |
-|----------|----------|---------|
-| Screws   | Self drilling long ones |         |
-| Screws   | 16mmx2.5mm |         |
-| L-Shapes | Metal wide L-Shapes |         |
+| Part         | Type                    | Details |
+|------------- |-------------------------|---------|
+| Big Screws   | Self drilling long ones | Used to screw together the wooden pieces directly |
+| Small Screws | 16mmx2.5mm              | Used to screw the L-Shapes to the wood |
+| L-Shapes     | Metal wide L-Shapes     | Used for stabilization |
 
 Make sure to use the appropriate size and type of screws, L-shapes, brackets, nuts, and washers for the assembly.
 
+## Assembly
+
 Not yet done
+
