@@ -78,7 +78,27 @@ After creating the model, I prepared optimized cut list based on the table of th
   <img src="images/try-1-piece-2.png" width="200" /> 
 </p>
 
+## Wood glazing
+
+Because the spruce wood I got is very light in color, I got teak wood color glaze to protect the wood and achieve a more desired coloring.
+
+![glazing-1](/images/glazing-1.jpg)
+
+![glazing-2](/images/glazing-2.jpg)
+
+
 
 ## Assembly
+
+## Metal Parts
+Here is a table listing the metal parts needed for the assembly:
+
+| Part     | Type     | Details |
+|----------|----------|---------|
+| Screws   | Self drilling long ones |         |
+| Screws   | 16mmx2.5mm |         |
+| L-Shapes | Metal wide L-Shapes |         |
+
+Make sure to use the appropriate size and type of screws, L-shapes, brackets, nuts, and washers for the assembly.
 
 Not yet done
