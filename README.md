@@ -104,5 +104,70 @@ Make sure to use the appropriate size and type of screws, L-shapes, brackets, nu
 
 ## Assembly
 
-Not yet done
+Some impressions of the assembly of the piece. Unfortunately I did not make as many pictures as I hoped, because I got too much into the flow of finally assembling it.
 
+Also, excuse the chaos of random things everywhere. We had a water damage and had to get literally everything replaced because of mold :)
+
+![assembly-1](/images/assembly-1.png)
+
+First I assemble the bottom piece to the side pieces to form a wide U shape.
+
+Then I places the vertical front pices on the gound and placed the front panel wall on top of them. This ensured that the wall insode the U shape had the correct distance from the ground.
+
+Then I added the center divider, again by using slot divider parts to ensure the distance from the bottom piece was 100% correct.
+
+![assembly-2](/images/assembly-2.png)
+
+A view how it looks when standing up.
+
+![assembly-3](/images/assembly-3.png)
+
+Using the same technique with the slot dividers to ensure the correct height from the horizontal center divider, I mounted the top piece.
+
+![assembly-4](/images/assembly-4.png)
+
+To allow the cables to be hidden, some wide hole was cut in. I drilled two big holes with a drill on each end and connected them with the jigsaw.
+
+Later on I added another such whole on the further left side of the DJ Table (Where we have the power plug in our studio)
+
+![assembly-5](/images/assembly-5.png)
+
+The front view protection was mounted. Together we decided to not lower the front piece into the DJ Table, bu thave it directly at the outmost point, creating no deepening..
+
+![assembly-6](/images/assembly-6.png)
+
+Better view of the top and hole
+
+![assembly-7](/images/assembly-7.png)
+
+The slot divider pieces were then added. This required a lot of measuring and caluations
+
+![assembly-8](/images/assembly-8.png)
+
+Afrer all slot dividers, the second top view protection and floor piece were all assmeblied, they could soon be put together.
+
+![assembly-9](/images/assembly-9.png)
+
+Abother angle
+
+![assembly-10](/images/assembly-10.png)
+
+The holes for the CDJs and mixer had to be cut out of the top plate. This was done drilling holes along the markings and usind the jigsaw to cut out the pices.
+
+*Attention* Cut along the "thin" middle line parts first. This way these don't have to hold the weight of the whole piece when being the last attached part to it. I.e. perpendicular to the wood grain first, when along.
+
+![assembly-11](/images/assembly-11.png)
+
+Picture of with all holes cut out
+
+![assembly-12](/images/assembly-12.png)
+
+View from the front, with the yet missing tabs
+
+![assembly-13](/images/assembly-13.png)
+
+View from the back
+
+![assembly-14](/images/assembly-14.png)
+
+View with the DJ equipment. The edges surely need some grinding work
