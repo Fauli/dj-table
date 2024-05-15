@@ -11,13 +11,15 @@
 
 ## Introduction
 
-DJ Table along the style of https://www.jj-boooth.com/projects/unit-023
+Inspired by the sleek, functional design found on JJ Boooth's projects, I embarked on creating my own DJ table tailored to my specific needs and aesthetics. This site documents the journey from conceptualization to the final product, detailing each step of the process for fellow enthusiasts and DIYers.
 
 ![inspiration](/images/inspiration.png)
 
 ![front-labels](/images/front-2-labels.png)
 
 ## Important facts
+
+Before diving into the construction, it's crucial to consider the dimensions and specifications of the equipment and materials to ensure everything fits perfectly and functions seamlessly.
 
 | Name                       | Value     | Comments                            |
 | -------------------------- | --------  | --------                            |
@@ -34,6 +36,8 @@ DJ Table along the style of https://www.jj-boooth.com/projects/unit-023
 
 
 ## List of Woodcuts
+
+A precise list of materials and dimensions is essential for efficiency and minimizing waste. Below is a comprehensive table listing each piece required for the build, along with their dimensions and quantity.
 
 | ID | Piece                               | Amount | Height [mm] | Width [mm] | Thickness [mm] | m^2 p.P. | m^2 total |
 |----|-------------------------------------|--------|-------------|------------|----------------|----------|-----------|
@@ -71,7 +75,7 @@ NOTE: As of now, the model does not have the cuts for the holes in the very top 
 
 ## Cut list
 
-After creating the model, I prepared optimized cut list based on the table of the list of wood cuts above. I used a software I found online to draw the images. I came up with 2 different versions:
+After creating the model, I prepared optimized cut list based on the table of the list of wood cuts above. I used a [software I found online](https://www.cutlistoptimizer.com/) to draw the images. I came up with 2 different versions:
 
 <p float="left">
   <img src="images/try-1-piece-1.png" width="200" />
@@ -80,7 +84,7 @@ After creating the model, I prepared optimized cut list based on the table of th
 
 ## Wood glazing
 
-Because the spruce wood I got is very light in color, I got teak wood color glaze to protect the wood and achieve a more desired coloring.
+I chose a teak wood glaze for the spruce to enhance its aesthetic appeal and protect the surface.
 
 ![glazing-1](/images/glazing-1.jpg)
 
@@ -89,7 +93,7 @@ Because the spruce wood I got is very light in color, I got teak wood color glaz
 So before any of the assembly steps are done. All pieces are proprely coated.
 Unforunately the sides of the pieces did not come out evenly colored. 
 
-To fix this, I'll sand the sides that are visible after the assembly with a sander and re-paint them.
+To fix this, I'll sand the sides that are visible after the assembly with a sander and re-paint them later.
 
 ## Metal Parts
 Here is a table listing the metal parts needed for the assembly:
@@ -171,3 +175,30 @@ View from the back
 ![assembly-14](/images/assembly-14.png)
 
 View with the DJ equipment. The edges surely need some grinding work
+
+![assembly-15](/images/assembly-15.png)
+
+Adding the vertical dividers for the front shelves
+
+![assembly-16](/images/assembly-16.png)
+
+Adding the horizontal dividers for the front shelves
+
+![assembly-17](/images/assembly-17.png)
+
+Screwing them in properly, so they hold nice lavalamps and such ;-)
+
+![assembly-18](/images/assembly-18.png)
+
+Attaching the floor piece rectangle, slightly more to the front, so the feet have more space when standing at the DJ table
+
+![assembly-19](/images/assembly-19.png)
+
+Turning the table around on it's proper side
+
+## Finished product
+
+![finished-front](/images/finished-front.png)
+
+![finished-front-2](/images/finished-front-2.png)
+
